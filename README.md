@@ -17,7 +17,7 @@ Podify is an application designed for listening to and organizing local audio on
 - **Notification Permission:** Needed for displaying notifications.
 
 ## App Files:
-- [Download App](management/app.apk)
+- [Download App](https://github.com/Kys0me/Podify-Download-Page/blob/assets/app-release.apk)
 
 Feel free to explore and enhance your audio experience with Podify!
 
