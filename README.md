@@ -1,6 +1,6 @@
 # Podify App
 
-![Podify Icon](https://github.com/Kys0me/Podify-Download-Page/raw/assets/icon-512.png)
+![Podify Icon](https://github.com/Kys0me/Podify-Download-Page/raw/assets/icon-192.png)
 
 Podify is an application designed for listening to and organizing local audio on your device. It allows you to organize your audio into a library, keep track of what's been played, and offers the convenience of downloading and browsing online audio. The app requires permissions to access phone storage and notification settings.
 
