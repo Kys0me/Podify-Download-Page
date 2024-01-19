@@ -1,8 +1,15 @@
 # Podify App
 
-![Podify Icon](management/icon.png)
+![Podify Icon](assets/icon/app-icon-192.png)
 
 Podify is an application designed for listening to and organizing local audio on your device. It allows you to organize your audio into a library, keep track of what's been played, and offers the convenience of downloading and browsing online audio. The app requires permissions to access phone storage and notification settings.
+
+## Table of Contents
+- [Features](#features)
+- [Permissions](#permissions)
+- [Download Podify](#download-podify)
+- [Communication](#communication)
+- [Important Notes](#important-notes)
 
 ## Features:
 - **Local Audio Organization:** Efficiently organize your audio files into a user-friendly library.
@@ -16,9 +23,12 @@ Podify is an application designed for listening to and organizing local audio on
 - **Storage Access:** Required to access the phone's storage for local audio files.
 - **Notification Permission:** Needed for displaying notifications.
 
-## App Files:
-- [Download App](management/app.apk)
+## Download the App:
+- [Download App](assets/apk/app-release.apk)
 
-Feel free to explore and enhance your audio experience with Podify!
+## Communication:
+- **First Official Release:** This is the first official version of the app. It may contain bugs, issues, and shortcomings. Your feedback, opinions, and bug reports are highly appreciated.
+- **Feedback and Improvements:** Share your thoughts, suggest enhancements, and report issues on our [GitHub Issues](https://github.com/Kys0me/Podify-Download-Page/issues) page.
 
+## Important Notes:
 *Note: Make sure to grant the necessary permissions for the app to function seamlessly.*
