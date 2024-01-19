@@ -23,7 +23,6 @@ Podify هو تطبيق مصمم للاستماع وتنظيم الملفات ا�
 ## المميزات:
 - **تنظيم الصوتيات المحلية:** قم بتنظيم ملفات الصوت الخاصة بك بشكل فعّال في مكتبة سهلة الاستخدام.
 - **حفظ تاريخ التشغيل:** تتبع الصوتيات التي قمت بالاستماع إليها.
-- **تنزيل وتصفح الصوتيات عبر الإنترنت:** استمتع بمرونة تنزيل وتصفح محتوى صوتي عبر الإنترنت.
 - **خفيف الوزن:** بحجم مدمج، لن يثقل تطبيق Podify جهازك.
 - **تصميم Material 3:** يتبع التطبيق معايير تصميم Material 3، مما يضمن واجهة سلسة وبديهية.
 - **التوافق:** يعمل على نظام Android الإصدار 6 وما فوق.
@@ -57,7 +56,6 @@ Podify is an application designed for listening to and organizing local audio on
 ## Features:
 - **Local Audio Organization:** Efficiently organize your audio files into a user-friendly library.
 - **Save Playback History:** Keep track of the audio you've listened to.
-- **Online Audio Download and Browse:** Enjoy the flexibility of downloading and browsing online audio content.
 - **Lightweight:** With a compact size, Podify won't burden your device.
 - **Material 3 Design:** The app follows Material 3 design standards, ensuring a sleek and intuitive interface.
 - **Compatibility:** Works on Android version 6 and above.
