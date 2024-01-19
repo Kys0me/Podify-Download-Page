@@ -1,6 +1,49 @@
 # Podify App
 
+[![Android](https://img.shields.io/badge/Plataforma-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms)
+[![Release](https://img.shields.io/github/v/release/Kys0me/Podify-Download-Page?color=%23b597f4&style=for-the-badge)](https://github.com/Kys0me/Podify-Download-Page/releases/latest)
+
 ![Podify Icon](assets/icon/app-icon-192.png)
+
+## Languages
+- [العربية](#العربية)
+- [English](#english)
+
+# العربية
+
+Podify هو تطبيق مصمم للاستماع وتنظيم الملفات الصوتية المحلية على جهازك. يسمح لك بتنظيم الصوتيات الخاصة بك في مكتبة، وتتبع ما تم تشغيله، ويوفر لك سهولة التنزيل وتصفح الصوتيات عبر الإنترنت. يتطلب التطبيق الأذونات للوصول إلى تخزين الهاتف وإعدادات الإشعارات.
+
+## جدول المحتويات
+- [المميزات](#المميزات)
+- [الصلاحيات](#الصلاحيات)
+- [تحميل تطبيق Podify](#تحميل-تطبيق-podify)
+- [التواصل](#التواصل)
+- [ملاحظات هامة](#ملاحظات-هامة)
+
+## المميزات:
+- **تنظيم الصوتيات المحلية:** قم بتنظيم ملفات الصوت الخاصة بك بشكل فعّال في مكتبة سهلة الاستخدام.
+- **حفظ تاريخ التشغيل:** تتبع الصوتيات التي قمت بالاستماع إليها.
+- **تنزيل وتصفح الصوتيات عبر الإنترنت:** استمتع بمرونة تنزيل وتصفح محتوى صوتي عبر الإنترنت.
+- **خفيف الوزن:** بحجم مدمج، لن يثقل تطبيق Podify جهازك.
+- **تصميم Material 3:** يتبع التطبيق معايير تصميم Material 3، مما يضمن واجهة سلسة وبديهية.
+- **التوافق:** يعمل على نظام Android الإصدار 6 وما فوق.
+
+## الصلاحيات:
+- **الوصول إلى التخزين:** مطلوب للوصول إلى تخزين الهاتف لملفات الصوت المحلية.
+- **أذن الإشعار:** مطلوبة لعرض الإشعارات.
+
+## تحميل تطبيق Podify:
+- [الرابط المباشر](https://github.com/Kys0me/Podify-Download-Page/releases/download/v0.0.1/app-release.apk)
+- [صفحة الإصدار](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.1)
+
+## التواصل:
+- **الإصدار الأولي الرسمي:** هذا هو الإصدار الأولي الرسمي للتطبيق. قد يحتوي على أخطاء ومشاكل. نرحب بآرائكم واقتراحاتكم وتقارير الأخطاء على [صفحة GitHub Issues](https://github.com/Kys0me/Podify-Download-Page/issues) لدينا.
+
+## ملاحظات هامة:
+*ملحوظة: تأكد من منح الأذونات اللازمة لتطبيق Podify للعمل بسلاسة.*
+
+
+## English
 
 Podify is an application designed for listening to and organizing local audio on your device. It allows you to organize your audio into a library, keep track of what's been played, and offers the convenience of downloading and browsing online audio.
 
