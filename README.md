@@ -1,7 +1,7 @@
 # Podify App
 
-[![Android](https://img.shields.io/badge/Plataforma-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms)
-[![Release](https://img.shields.io/github/v/release/Kys0me/Podify-Download-Page?color=%23b597f4&style=for-the-badge)](https://github.com/Kys0me/Podify-Download-Page/releases/latest)
+![Static Badge](https://img.shields.io/badge/App%20Version-v0.0.1-%23343C4D)
+![Static Badge](https://img.shields.io/badge/Debug-V0.0.1-7DC4EB)
 
 ![Podify Icon](assets/icon/app-icon-192.png)
 
