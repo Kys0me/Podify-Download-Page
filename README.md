@@ -1,7 +1,8 @@
 # Podify App
 
-![Static Badge](https://img.shields.io/badge/App%20Version-v0.0.1-%23343C4D)
-![Static Badge](https://img.shields.io/badge/Debug-V0.0.1-7DC4EB)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-v0.0.1-%23343C4D)](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.1)
+[![Debug](https://img.shields.io/badge/Debug-V0.0.1-7DC4EB)](null)
+
 
 ![Podify Icon](assets/icon/app-icon-192.png)
 
