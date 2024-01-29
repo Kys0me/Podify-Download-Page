@@ -1,7 +1,6 @@
 # Podify App
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-v0.0.1-%23343C4D)](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.1)
-[![Debug](https://img.shields.io/badge/Debug-V0.0.1-7DC4EB)](null)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-v0.0.2-%23343C4D)](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.2)
 
 
 ![Podify Icon](assets/icon/app-icon-192.png)
@@ -33,11 +32,11 @@ Podify هو تطبيق مصمم للاستماع وتنظيم الملفات ا�
 - **أذن الإشعار:** مطلوبة لعرض الإشعارات.
 
 ## تحميل تطبيق Podify:
-- [الرابط المباشر](https://github.com/Kys0me/Podify-Download-Page/releases/download/v0.0.1/app-release.apk)
-- [صفحة الإصدار](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.1)
+- [الرابط المباشر](https://github.com/Kys0me/Podify-Download-Page/releases/download/v0.0.2/app-release.apk)
+- [صفحة الإصدار](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.2)
 
 ## التواصل:
-- **الإصدار الأولي الرسمي:** هذا هو الإصدار الأولي الرسمي للتطبيق. قد يحتوي على أخطاء ومشاكل. نرحب بآرائكم واقتراحاتكم وتقارير الأخطاء على [صفحة GitHub Issues](https://github.com/Kys0me/Podify-Download-Page/issues) لدينا.
+- **اكن جزءاً:** هذا هو الإصدار االثاني الرسمي للتطبيق. قد يحتوي على أخطاء ومشاكل. نرحب بآرائكم واقتراحاتكم وتقارير الأخطاء على [صفحة GitHub Issues](https://github.com/Kys0me/Podify-Download-Page/issues) لدينا.
 
 ## ملاحظات هامة:
 *ملحوظة: تأكد من منح الأذونات اللازمة لتطبيق Podify للعمل بسلاسة.*
@@ -66,11 +65,11 @@ Podify is an application designed for listening to and organizing local audio on
 - **Notification Permission:** Needed for displaying notifications.
 
 ## Download Podify:
-- [Direct Link](https://github.com/Kys0me/Podify-Download-Page/releases/download/v0.0.1/app-release.apk)
-- [Release Page](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.1)
+- [Direct Link](https://github.com/Kys0me/Podify-Download-Page/releases/download/v0.0.2/app-release.apk)
+- [Release Page](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.2)
 
 ## Communication:
-- **First Official Release:** This is the first official version of the app. It may contain bugs, issues, and shortcomings. Your feedback, opinions, and bug reports are highly appreciated.
+- **Getting Involved** This is the secons official version of the app. It may contain bugs, issues, and shortcomings. Your feedback, opinions, and bug reports are highly appreciated.
 - **Feedback and Improvements:** Share your thoughts, suggest enhancements, and report issues on our [GitHub Issues](https://github.com/Kys0me/Podify-Download-Page/issues) page.
 
 ## Important Notes:
