@@ -69,7 +69,7 @@ Podify is an application designed for listening to and organizing local audio on
 - [Release Page](https://github.com/Kys0me/Podify-Download-Page/releases/tag/v0.0.2)
 
 ## Communication:
-- **Getting Involved** This is the secons official version of the app. It may contain bugs, issues, and shortcomings. Your feedback, opinions, and bug reports are highly appreciated.
+- **Getting Involved** This is the second official version of the app. It may contain bugs, issues, and shortcomings. Your feedback, opinions, and bug reports are highly appreciated.
 - **Feedback and Improvements:** Share your thoughts, suggest enhancements, and report issues on our [GitHub Issues](https://github.com/Kys0me/Podify-Download-Page/issues) page.
 
 ## Important Notes:
